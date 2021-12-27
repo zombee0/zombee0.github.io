@@ -6,7 +6,7 @@
 
 #### 2021.11
 
-[Mysql 和 Redis 一致性](https://zombee0.github.io/202111/Mysql和Redis一致性.md)
+[Mysql 和 Redis 一致性](https://zombee0.github.io/202111/Mysql.md)
 
 #### 2021.12
 
