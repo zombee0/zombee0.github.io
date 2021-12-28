@@ -8,7 +8,9 @@
 
 [MIT 6.824 Lab随笔](https://zombee0.github.io/202112/mit6.824Lab随笔.html)
 
-[6.824_P13_Spanner](https://zombee0.github.io/202112/6.824_P13_Spanner)
+[6.824_P13_Spanner](https://zombee0.github.io/202112/6.824_P13_Spanner.html)
+
+[6.824_P14_FaRM](https://zombee0.github.io/202112/6.824_P14_FaRM.html)
 
 #### 2021.11
 
