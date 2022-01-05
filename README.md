@@ -14,6 +14,8 @@
 
 [6.824_P15_Spark](https://zombee0.github.io/202112/6.824_P15_Spark.html) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; [6.824_P16_Memcache](https://zombee0.github.io/202112/6.824_P16_Memcache.html) &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[6.824_P17_CAUSAL_CONSISTENCY](https://zombee0.github.io/202112/6.824_P17_CAUSAL_CONSISTENCY.html)
 
+[6.824_P18-P20_DeCentralize](https://zombee0.github.io/202112/6.824_P18-P20_DeCentralize.html) &ensp;
+
 #### 2021.11
 
 [MySQL 和 Redis 一致性](https://zombee0.github.io/202111/MySQL和Redis一致性.html)
